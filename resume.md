@@ -1,5 +1,5 @@
-# Resume
-
+Resume
+___
 # Education
 
 ##  Duke University | 2022-2024 
