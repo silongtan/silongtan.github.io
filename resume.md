@@ -38,7 +38,6 @@ ___
 ## Egocentric Live 4D Perception (Ego4D)
 * https://ai.facebook.com/tools/ego4d 
 * A massive-scale, egocentric dataset and benchmark suite collected across 74 worldwide locations and 9 countries, with over 3,670 hours of daily-life activity video. Formulating computer vision benchmark challenges, including future prediction and social interactions
-
 * In collaboration with other research facilities, universities, and Facebook Reality Labs Research (FRL)
 
 ## Dialect-Identification
