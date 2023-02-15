@@ -21,11 +21,9 @@ Resume
 
 ## UMN Computer Vision Lab | Apr 2021 – May 2022
 ### Data Analyst & Recruiter
-* Designed python scripts applying machine learning and computer graphics and using Tensorflow framwork to implement a automated masking program. Processing video data using automated annotation tool to mask any sensitive content in the raw data and enhance the video quality. Collected and processed video data can be found in Ego4D project.
-
-* Process, label and upload data to UMN supercomputer, utilized automated scheduling algorithm to facilitate process effciency. 
-
-* Lead recruitment and video processing for the Minneapolis/St.Paul area. Host virtual meeting with participants and distribute/recycle experiment tools such as video capture glasses and equipment calibration. Coordinate in-person experiments with motion capture and video equipments.
+* Designed python scripts applying machine learning and computer graphics and using Tensorflow framework to implement an automated masking program. Processing video data using automated annotation tool to mask any sensitive content in the raw data and enhance the video quality. Collected and processed video data can be found in Ego4D project.
+* Process, label, and upload data to UMN supercomputer, utilized automated scheduling algorithm to facilitate process efficiency. 
+* Lead recruitment and video processing for the Minneapolis/St. Paul area. Host virtual meeting with participants and distribute/recycle experiment tools such as video capture glasses and equipment calibration. Coordinate in-person experiments with motion capture and video equipment.
 
 ## Center for Speech and Language Technologies | Jun 2019 – Aug 2019
 ### Research Assistant
