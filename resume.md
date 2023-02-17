@@ -29,14 +29,3 @@ Resume
 ### Research Assistant
 * Developed Accent ID system for the lab’s projects, the revised model after training later is integrated in to the NSFC program for voice recognition.
 * Collected various of accent audio data with geo-specific infromation. Hands on experience using machine learning and NLP to achieve automated system. Applied multiple modules to create a classification script that could distinguish different dialects using their characteristic wave matrix.
-
-# Project
-
-## Egocentric Live 4D Perception (Ego4D)
-* https://ai.facebook.com/tools/ego4d 
-* A massive-scale, egocentric dataset and benchmark suite collected across 74 worldwide locations and 9 countries, with over 3,670 hours of daily-life activity video. Formulating computer vision benchmark challenges, including future prediction and social interactions.
-* In collaboration with other research facilities, universities, and Facebook Reality Labs Research (FRL).
-
-## Dialect-Identification
-* https://github.com/silongtan/ML-Project-Accent-ID
-* Applied machine learning algorithms (KNN) to build a dialects database and a dialect-identification system after transforming the raw audio data using MFCC. After training, this system has an accuracy of 60% in identification.
