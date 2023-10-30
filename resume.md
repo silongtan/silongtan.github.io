@@ -3,7 +3,7 @@ Resume
 
 ##  Duke University | 2022-2024 
  * Master of Science in Computer Science
- * GPA: 4.0 / 4.0
+ * GPA: 3.9 / 4.0
 
 ##   University of Minnesota - Twin Cities | 2018-2022
 * Bachelor of Science in Computer Science 
@@ -13,6 +13,15 @@ Resume
 
 
 # Experience
+
+## Lenovo | May 2023 – Aug 2023
+### Software Engineer Intern
+* Enhanced and expanded functionality of the Lenovo Workstation Diagnostic app (Android & iOS),
+ensuring compatibility with Android 13 and the latest iOS version.
+* Implemented support for Windows desktop app Lenovo Performance Tuner, incorporating Windows 11
+compatibility and introducing new tuning features and performance analysis capabilities.
+* Contributed to full-stack development of the Lenovo Workstation website, creating and managing APIs
+and web-based tools for both internal and public web projects.
 
 ## UMN Networking Research Group | Mar 2022 – Jul 2022
 ### Research Assistant
